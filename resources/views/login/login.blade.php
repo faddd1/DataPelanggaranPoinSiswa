@@ -25,7 +25,7 @@
             <form action="" method="POST">
                 @csrf
                 <div class="mb-3">
-                    <label for="email" class="form-label">Email addressSSSSSS</label>
+                    <label for="email" class="form-label">AAN gasruk</label>
                     <input type="email" class="form-control" value="{{ old('email') }}" name="email">
                 </div>
                 <div class="mb-3">
