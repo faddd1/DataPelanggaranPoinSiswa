@@ -29,7 +29,7 @@
                     <input type="email" class="form-control" value="{{ old('email') }}" name="email">
                 </div>
                 <div class="mb-3">
-                    <label for="password" class="form-label">Password</label>
+                    <label for="password" class="form-label">kafiyan Kontol</label>
                     <input type="password" class="form-control" name="password">
                 </div>
                 <button type="submit" class="btn btn-primary w-100">Login</button>
